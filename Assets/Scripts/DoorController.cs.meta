@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59250c23653e3ae4fb4e7b97539e33ea
+timeCreated: 1468621798
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - doorAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
